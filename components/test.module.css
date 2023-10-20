@@ -1,0 +1,49 @@
+/* MyComponent.module.css */
+
+.my-component {
+  text-align: center;
+  margin: 20px auto;
+  max-width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.my-component input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.my-component button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.my-component button:hover {
+  background-color: #0056b3;
+}
+
+.my-component p {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #333;
+}
+
+.random-number {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.result {
+  font-weight: bold;
+  color: #ff0000;
+}
