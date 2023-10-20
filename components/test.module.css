@@ -3,7 +3,7 @@
 .my-component {
   text-align: center;
   margin: 20px auto;
-  max-width: 300px;
+  max-width: 350px;
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -12,19 +12,19 @@
 }
 
 .my-component input {
-  width: 100%;
+  width: 95%;
   padding: 10px;
-  margin: 10px 0;
+  margin: 20px 0;
   border: 1px solid #ccc;
   border-radius: 5px;
 }
 
 .my-component button {
-  background-color: #007bff;
+  background-color: #16a7dc;
   color: #fff;
   border: none;
   border-radius: 5px;
-  padding: 10px 20px;
+  padding: 10px 40px;
   cursor: pointer;
 }
 
