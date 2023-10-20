@@ -6,7 +6,7 @@ import MyComponent from '../components/MyComponet';
 const HomePage = () => {
   return (
     <div>
-      <h1>数字の入力</h1>
+      <h1>認証フォーム</h1>
       <MyComponent />
       <br>
       </br>
